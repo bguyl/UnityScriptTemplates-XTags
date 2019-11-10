@@ -10,7 +10,7 @@
 
 ### Setup
 
-Add the following line to you `Packages/manifest.json` in Unity under the `dependencie` section:
+Add the following line to you `Packages/manifest.json` in Unity under the `dependencies` section:
 
 ```json
 "me.guyl.xtags": "https://github.com/bguyl/UnityScriptTemplates-xtags.git#master"
