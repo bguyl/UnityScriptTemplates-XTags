@@ -19,7 +19,7 @@
 
             file = file.Replace("#DATE#", System.DateTime.Now.ToString());
             file = file.Replace("#PRODUCTNAME#", PlayerSettings.productName);
-            file = file.Replace("#COMPANYNAME", PlayerSettings.companyName);
+            file = file.Replace("#COMPANYNAME#", PlayerSettings.companyName);
 
             File.WriteAllText(a_path, file);
             AssetDatabase.Refresh();
