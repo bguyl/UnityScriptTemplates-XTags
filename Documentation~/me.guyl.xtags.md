@@ -1,4 +1,4 @@
-# Unity ScriptTemplates XTags
+# Unity ScriptTemplates Xtags
 
 > Extra tags for Unity ScriptTemplates
 

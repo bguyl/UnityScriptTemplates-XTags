@@ -1,0 +1,13 @@
+{
+    "name": "me.guyl.xtags",
+    "displayName": "XTags",
+    "version": "1.0.0",
+    "description": "This package add extra tags/keywords for ScriptTemplates",
+    "keywords": ["Script", "Template", "script-template", "Keywords", "Tags"],
+    "category": "Assets",
+    "author": {
+        "name": "Bastien Guyl",
+        "email": "bastien@guyl.me",
+        "url": "https://bastien.guyl.me"
+    }
+}
