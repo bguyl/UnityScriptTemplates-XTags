@@ -1,19 +1,27 @@
 # Unity ScriptTemplates XTags
 
-> Extra tags for Unity ScriptTemplates
+[![openupm](https://img.shields.io/npm/v/me.guyl.xtags?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/me.guyl.xtags/)
+
+------------------------------------------------------------------
+
+Extra tags for Unity ScriptTemplates
+
+------------------------------------------------------------------
 
 ## Installation
 
-### Requirements
+### With [openupm-cli](https://openupm.com/) (preferred)
 
-[Git](https://git-scm.com/) must be installed and added to your path.
+```
+openupm add me.guyl.xtags
+```
 
-### Setup
+### With Git
 
 Add the following line to you `Packages/manifest.json` in Unity under the `dependencies` section:
 
 ```json
-"me.guyl.xtags": "https://github.com/bguyl/UnityScriptTemplates-xtags.git#master"
+"me.guyl.xtags": "https://github.com/bguyl/UnityScriptTemplates-xtags.git#1.0.0"
 ```
 
 ## Available tags
